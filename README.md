@@ -1,4 +1,4 @@
-# Terraform Module Demo Tag
+# Terraform Module Demo Branch
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
